@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Pro Standard Assets\Water\Sources\Water.cs">
+    <Files>
+      <File FileName="Assets\Scripts\JavaScripts\BumpTextureTileAnimation.js" Line="1" Column="1" />
+      <File FileName="Assets\Pro Standard Assets\Image Based\SSAOEffect.cs" Line="106" Column="39" />
+      <File FileName="Assets\Pro Standard Assets\Water\Sources\Water.cs" Line="291" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
